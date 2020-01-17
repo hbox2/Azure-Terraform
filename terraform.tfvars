@@ -1,7 +1,7 @@
-azure_subscription_id = "b2342340-bbb234-234234asdf-asdfsdf"
+azure_subscription_id = "194d7beb-d44d-4b34-9395-1a6697681835"
 azure_client_id       = "b2342340-bbb234-234234asdf-asdfsdf"
 azure_client_secret   = "b2342340-bbb234-234234asdf-asdfsdf"
-azure_tenant_id       = "b2342340-bbb234-234234asdf-asdfsdf"
+azure_tenant_id = "9da80f4f-4b50-49c9-9d9a-8b37ffb9fe07"
 
 azure_linux_user_password = "Password_for_user"
 azure_linux_user_name     = "ubnt"
